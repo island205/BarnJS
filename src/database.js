@@ -19,7 +19,7 @@ export class Database {
     this.name = options.name
     this.version = options.version || 1
     this.onUpgrade = options.onUpgrade || NOOP
-    this.models = []
+    this.models = {}
   }
   model(name, schema) {
     var model = this.models[name] = new Model(schema)
