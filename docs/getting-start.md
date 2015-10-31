@@ -3,10 +3,10 @@
 ## 安装
 
 ```bash
-$ bower i barn.js
+$ bower i BarnJS
 
 # or
-$ npm i barn
+$ npm i BarnJS
 ```
 
 ## 使用

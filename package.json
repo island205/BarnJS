@@ -1,5 +1,5 @@
 {
-  "name": "barn.js",
+  "name": "BarnJS",
   "version": "0.1.0",
   "description": "scalable and extendable browser db library based on indexeddb.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/teambition/barn.js.git"
+    "url": "git@github.com:island205/BarnJS.git"
   },
   "keywords": [
     "indexeddb",
@@ -17,9 +17,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/teambition/barn.js/issues"
+    "url": "https://github.com/island205/BarnJS/issues"
   },
-  "homepage": "https://github.com/teambition/barn.js",
+  "homepage": "https://github.com/island205/BarnJS",
   "devDependencies": {
     "babelify": "^6.0.1",
     "jasmine-core": "^2.2.0",
